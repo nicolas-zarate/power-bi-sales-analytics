@@ -139,7 +139,8 @@ power-bi-sales-analytics/
     ├── 02_resumen_ejecutivo.png
     ├── 03_ventas.png
     ├── 04_desempeno_comercial.png
-    └── 05_escenarios.png
+    ├── 05_escenarios.png
+    └── 06_ventas_vs_target.png
 ```
 
 ## 👤 Autor
