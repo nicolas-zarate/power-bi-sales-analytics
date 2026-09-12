@@ -35,8 +35,6 @@ Permite profundizar el análisis según diferentes dimensiones:
 * Períodos.
 * Participación sobre las ventas totales.
 
-<img width="1478" height="826" alt="image" src="https://github.com/user-attachments/assets/8186049b-f3b6-4487-8f11-4bc25a28c1bd" />
-
 ### Desempeño Comercial
 
 Análisis orientado al rendimiento del equipo comercial mediante indicadores y rankings de vendedores.
@@ -49,8 +47,6 @@ Incluye métricas como:
 * Comparación del desempeño comercial.
 * Análisis por planta.
 
-<img width="1473" height="823" alt="image" src="https://github.com/user-attachments/assets/305839dc-b66f-4404-aba2-0e38e596fbeb" />
-
 ### Análisis de Escenarios
 
 Se incorporaron herramientas interactivas que permiten modificar dinámicamente el análisis.
@@ -59,7 +55,6 @@ Mediante **Field Parameters**, el usuario puede seleccionar diferentes dimension
 
 También se implementó un **What-if Parameter** para modificar el objetivo de ventas y analizar dinámicamente qué resultados se encuentran por encima o por debajo del target establecido.
 
-<img width="1475" height="830" alt="image" src="https://github.com/user-attachments/assets/1dfb6d66-569d-4022-86ad-daa75da166e7" />
 <img width="1474" height="827" alt="image" src="https://github.com/user-attachments/assets/52a9914b-eb42-4da6-afae-5bdd874f4979" />
 
 ## ⚙️ Funcionalidades implementadas
