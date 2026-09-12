@@ -1,11 +1,13 @@
 # 📊 Análisis Comercial y de Ventas | Power BI
 
 Dashboard interactivo desarrollado en **Power BI** para analizar el desempeño comercial de una empresa desde diferentes perspectivas: ventas, clientes, productos, vendedores, regiones y plantas.
+
 El proyecto fue desarrollado aplicando técnicas de modelado, DAX, inteligencia de tiempo, parámetros dinámicos, seguridad e interactividad.
 
 ## 🎯 Objetivo
 
 Construir una solución de Business Intelligence que permita transformar información comercial en indicadores y visualizaciones interactivas para facilitar el análisis y la toma de decisiones.
+
 El dashboard permite analizar tanto el desempeño general de ventas como profundizar en dimensiones específicas del negocio y evaluar diferentes escenarios comerciales.
 
 ## 📈 Dashboard
