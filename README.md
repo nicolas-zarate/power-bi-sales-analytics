@@ -67,7 +67,6 @@ El proyecto incorpora diferentes funcionalidades de Power BI:
 * Transformación de datos con Power Query.
 * Medidas y cálculos mediante DAX.
 * Time Intelligence.
-* Comparaciones YTD vs. año anterior.
 * Rankings dinámicos.
 * Field Parameters.
 * What-if Parameters.
